@@ -1,2 +1,1 @@
-bold text
-#Heading 2
+# Heading 1
